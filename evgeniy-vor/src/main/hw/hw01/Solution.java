@@ -100,6 +100,44 @@ public class Solution {
         b = a-b;
         a = a-b;
         System.out.println("After:  " +"a=" + a + " b=" + b);
+        System.out.println();
 
+        //TaskBonus
+        Scanner in = new Scanner(System.in);
+        System.out.print("Please enter the number: ");
+        int getNumberFromConsole  = in.nextInt();
+
+        BonusHomeWork.convertNumber(getNumberFromConsole);
+    }
+
+    static class BonusHomeWork {
+
+        public static void convertNumber(int b){
+            int a1 = b%2;
+            int b1 = b/2;
+
+            int a2 = b1%2;
+            int b2 = b1/2;
+
+            int a3 = b2%2;
+            int b3 = b2/2;
+
+            int a4 = b3%2;
+            int b4 = b3/2;
+
+            int a5 = b4%2;
+            int b5 = b4/2;
+
+            int a6 = b5%2;
+            int b6 = b5/2;
+
+            int a7 = b6%2;
+            int b7 = b6/2;
+
+            int a8 = b7%2;
+
+            //Вывод в консоль:
+            System.out.println(a8+" "+a7+" "+a6+" "+a5+" "+a4+" "+a3+" "+a2+" "+a1);
+        }
     }
 }
