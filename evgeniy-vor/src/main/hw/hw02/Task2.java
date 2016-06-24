@@ -31,7 +31,7 @@ class Task2 {
                 System.out.println("Congratulations, you typed even number");
             }
         }
-        //restart
+        //restart program
         Task2.main(args);
     }
 }
