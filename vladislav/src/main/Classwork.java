@@ -8,6 +8,7 @@ public class Classwork {
                 System.out.print("1");
             } else if (k % 2 == 0) {
                 System.out.print("0");
+                // как отобразить результат в обратном порядке?
             }
         }
     }
