@@ -31,6 +31,6 @@ class Task2 {
                 System.out.println("Congratulations, you typed even number");
             }
         }
-        MyJavaClass.main(args);
+        Task2.main(args);
     }
 }
