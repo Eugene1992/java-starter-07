@@ -5,14 +5,14 @@ package classw;
  */
 public class ClassWork {
     public static void main(String[] args) {
-       // Class Work № 1 - вывод чисел от 0 до 100 деленное на 3
-//        for (int i = 0; i < 100 ; i++) {
-//
-//            if (i % 3 == 0) {
-//                System.out.println(i);
-//            }
-//
-//        }
+        // Class Work № 1 - вывод чисел от 0 до 100 деленное на 3
+        for (int i = 0; i < 100; i++) {
+
+            if (i % 3 == 0) {
+                System.out.println(i);
+            }
+
+        }
 
 
         // Class Work № 2 - перевод с десятичного числа в двоичное
@@ -24,6 +24,6 @@ public class ClassWork {
             System.out.print(c + res);
 
             i = i / 2;
-            }
         }
+    }
 }
