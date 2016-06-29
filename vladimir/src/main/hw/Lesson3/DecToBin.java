@@ -20,7 +20,6 @@ public class DecToBin {
             System.out.println("Sorry. program does not support this digit");
         }
 
-
         String res = "";
         long iterator = 1;
         byte bit;
@@ -30,7 +29,6 @@ public class DecToBin {
             iterator *= 2;
             bitsCount --;
         }
-
 
         System.out.println(res);
 
