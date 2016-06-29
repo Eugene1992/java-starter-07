@@ -20,6 +20,7 @@ public class Task6 {
         System.out.print("Please enter the scale of notation: ");
         int scale = in.nextInt();
 
+
         String res = "";
         int balance;
 
