@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/evgeniy-dev/evgeniy-dev.iml" filepath="$PROJECT_DIR$/evgeniy-dev/evgeniy-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evgeniy-vor/evgeniy-vor.iml" filepath="$PROJECT_DIR$/evgeniy-vor/evgeniy-vor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-starter.iml" filepath="$PROJECT_DIR$/java-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nikolay/nikolay.iml" filepath="$PROJECT_DIR$/nikolay/nikolay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oksana/oksana.iml" filepath="$PROJECT_DIR$/oksana/oksana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vladimir/vladimir.iml" filepath="$PROJECT_DIR$/vladimir/vladimir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vladislav/vladislav.iml" filepath="$PROJECT_DIR$/vladislav/vladislav.iml" />
+    </modules>
+  </component>
+</project>
