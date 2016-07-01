@@ -32,9 +32,20 @@ public class Calculator {
         int in3 = scan3.nextInt();
 
 
+        switch (in3) {
 
-
-
-
+            case 1:
+                System.out.println(in + " + " + in2 + " = " + (in + in2));
+                break;
+            case 2:
+                System.out.println(in + " - " + in2 + " = " + (in - in2));
+                break;
+            case 3:
+                System.out.println(in + " * " + in2 + " = " + (in * in2));
+                break;
+            case 4:
+                System.out.println(in + " / " + in2 + " = " + (in / in2));
+                break;
+        }
     }
 }
