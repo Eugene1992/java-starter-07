@@ -1,8 +1,5 @@
 package lesson_05;
 
-/**
- * Created by Student on 6/29/2016.
- */
 public class BitsShift {
     public static void main(String[] args) {
         //    0000 0000 1111 1101

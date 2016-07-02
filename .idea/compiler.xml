@@ -60,10 +60,10 @@
         <module name="evgeniy-dev" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="evgeniy-dev" target="1.7" />
       <module name="evgeniy-vor" target="1.7" />
-      <module name="java-starter" target="1.7" />
+      <module name="java-starter" target="1.8" />
       <module name="nikolay" target="1.7" />
       <module name="oksana" target="1.7" />
       <module name="vladimir" target="1.7" />
