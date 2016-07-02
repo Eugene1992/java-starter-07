@@ -11,7 +11,8 @@ public class Clock {
         for(int i = 0; i < 24; i ++){
             a = i % 10;
             b = i / 10;
-            counter = (a * 10 + b) < 24 ? ++counter : counter;
+            counter = (a * 10 + b) < 60 ? ++counter : counter;
+            System.out.println( a * 10 + b );
         }
 
         System.out.println("Result is " + counter);
