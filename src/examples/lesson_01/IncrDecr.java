@@ -1,4 +1,4 @@
-package lesson01;
+package lesson_01;
 
 /**
  * Created by Student on 6/22/2016.
